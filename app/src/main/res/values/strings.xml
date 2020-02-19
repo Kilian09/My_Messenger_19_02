@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_Messenger_19_02</string>
+    <string name="message_text">Enter a message</string>
+    <string name="send_button_text">Send Message</string>
+</resources>
